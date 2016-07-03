@@ -1,5 +1,5 @@
 # GenCertForNS
-Generate an Let's Encrypt certificate you can user for your NetScaler.
+Generate an Let's Encrypt certificate what can be used on the NetScaler.
 
 Currently still Work In Progress... It's not yet finished.
 
